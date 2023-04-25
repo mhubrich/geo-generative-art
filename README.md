@@ -16,6 +16,6 @@ Produces generative art based on geographic features
                alt="Generated watercoloring based on location of fast-food restaurants.">
           <figcaption>Generated watercoloring based on location of fast-food restaurants.</figcaption>
       </figure>
-    <td>
+    </td>
   </tr>
 </table>
