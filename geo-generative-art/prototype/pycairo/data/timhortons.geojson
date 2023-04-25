@@ -1,0 +1,435 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-31T23:51:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/811017755",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "756",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "opening_hours": "24/7",
+        "operator": "Restaurant Brands International Inc.",
+        "takeaway": "yes",
+        "website": "https://www.timhortons.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1272193,
+          49.2776017
+        ]
+      },
+      "id": "node/811017755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1392627289",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "opening_hours": "Mo,Tu 10:00-19:00; We-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00",
+        "operator": "Restaurant Brands International Inc.",
+        "takeaway": "yes",
+        "website": "https://www.timhortons.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.115582,
+          49.284954
+        ]
+      },
+      "id": "node/1392627289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1572449336",
+        "addr:city": "Vancouver",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1145811,
+          49.2874193
+        ]
+      },
+      "id": "node/1572449336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692226633",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Tim Hortons",
+        "operator": "Restaurant Brands International Inc.",
+        "source": "survey",
+        "source:location": "gps",
+        "takeaway": "yes",
+        "website": "https://www.timhortons.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1120652,
+          49.2850471
+        ]
+      },
+      "id": "node/1692226633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1944610563",
+        "addr:city": "Vancouver",
+        "addr:province": "BC",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "opening_hours": "24/7",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1209459,
+          49.2848332
+        ]
+      },
+      "id": "node/1944610563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2070416873",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "947",
+        "addr:street": "Hornby Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "delivery": "no",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "Tim Hortons",
+        "opening_hours": "Mo-Sa 06:00-21:00; Su,PH 07:00-21:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1242771,
+          49.2811807
+        ]
+      },
+      "id": "node/2070416873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2490635049",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "998",
+        "addr:street": "Granville Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "drive_through": "no",
+        "name": "Tim Hortons",
+        "opening_hours": "Mo-Su 05:00-00:00",
+        "operator": "Restaurant Brands International Inc.",
+        "takeaway": "yes",
+        "website": "https://www.timhortons.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1227256,
+          49.2792354
+        ]
+      },
+      "id": "node/2490635049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3235442692",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "108",
+        "addr:street": "West Pender Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "opening_hours": "24/7",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.107834,
+          49.2809701
+        ]
+      },
+      "id": "node/3235442692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3690938880",
+        "addr:housenumber": "1299",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1283167,
+          49.2870412
+        ]
+      },
+      "id": "node/3690938880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3720061726",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "607",
+        "addr:street": "Dunsmuir Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Tim Hortons",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1155257,
+          49.2832205
+        ]
+      },
+      "id": "node/3720061726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3769892469",
+        "addr:housenumber": "490",
+        "addr:street": "Hornby Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1163367,
+          49.2860889
+        ]
+      },
+      "id": "node/3769892469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343347409",
+        "addr:housenumber": "1150",
+        "addr:street": "Alberni Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1249177,
+          49.2859029
+        ]
+      },
+      "id": "node/4343347409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4796021822",
+        "addr:housenumber": "1752",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Tim Hortons",
+        "opening_hours": "Mo-Su 05:00-23:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1410036,
+          49.2865567
+        ]
+      },
+      "id": "node/4796021822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5248095721",
+        "addr:housenumber": "1001",
+        "addr:street": "Denman Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1388596,
+          49.2893869
+        ]
+      },
+      "id": "node/5248095721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671122775",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "description": "The Tim Hortons is located underground between the Canada Line and the Vancouver Centre Mall.",
+        "level": "-1",
+        "name": "Tim Hortons",
+        "ref": "3719",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1185541,
+          49.2821466
+        ]
+      },
+      "id": "node/5671122775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6322544026",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "outdoor_seating": "no",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1216196,
+          49.2875882
+        ]
+      },
+      "id": "node/6322544026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030505027",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "678",
+        "addr:postcode": "V6B 1N3",
+        "addr:street": "Dunsmuir Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "level": "-1",
+        "name": "Tim Hortons",
+        "opening_hours": "Mo-Th 06:00-20:30; Fr 06:30-20:30; Sa-Su 08:00-20:00",
+        "outdoor_seating": "no",
+        "phone": "+16046940865",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1164538,
+          49.2830656
+        ]
+      },
+      "id": "node/7030505027"
+    }
+  ]
+}

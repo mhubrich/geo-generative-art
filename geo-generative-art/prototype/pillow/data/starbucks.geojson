@@ -1,0 +1,926 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-31T23:51:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502425631",
+        "addr:housenumber": "125",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11993,
+          49.2733132
+        ]
+      },
+      "id": "node/502425631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/513053593",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1169322,
+          49.2792817
+        ]
+      },
+      "id": "node/513053593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/513053838",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "987",
+        "addr:street": "Mainland Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1187373,
+          49.2772564
+        ]
+      },
+      "id": "node/513053838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/513053865",
+        "addr:housenumber": "868",
+        "addr:street": "Beatty Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-20:00; Sa-Su 07:00-19:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1148343,
+          49.2768092
+        ]
+      },
+      "id": "node/513053865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/571309050",
+        "addr:housenumber": "1099",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-00:00; Sa-Su 06:00-00:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1245931,
+          49.2846042
+        ]
+      },
+      "id": "node/571309050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/638752000",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "498",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-21:00; Sa 06:30-21:00; Su 07:00-20:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1178938,
+          49.2799212
+        ]
+      },
+      "id": "node/638752000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/779225247",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa 06:30-22:00; Su 06:30-21:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1086358,
+          49.2843874
+        ]
+      },
+      "id": "node/779225247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/793915420",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1097",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 05:30-00:00",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1309375,
+          49.2803846
+        ]
+      },
+      "id": "node/793915420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/811017763",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1095",
+        "addr:street": "Howe Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-19:00; Sa-Su 06:00-18:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1255832,
+          49.2790558
+        ]
+      },
+      "id": "node/811017763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/811017771",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "605",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-20:00; Sa,Su 06:00-20:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1252348,
+          49.2767389
+        ]
+      },
+      "id": "node/811017771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/905415420",
+        "addr:housenumber": "930",
+        "addr:street": "Burrard Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 05:30-22:30; Fr 05:30-23:00; Sa 06:00-23:00; Su 06:00-22:30",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1246565,
+          49.2817947
+        ]
+      },
+      "id": "node/905415420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/926024506",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1239772,
+          49.2878625
+        ]
+      },
+      "id": "node/926024506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1392627194",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 05:30-21:00; Fr 05:30-22:00; Sa 07:00-22:00; Su 07:00-21:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.115193,
+          49.2846685
+        ]
+      },
+      "id": "node/1392627194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1395459765",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1152363,
+          49.2859592
+        ]
+      },
+      "id": "node/1395459765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1430599359",
+        "addr:unit": "1089",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-22:00; Sa 06:00-22:00; Su 06:00-21:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1073562,
+          49.2799372
+        ]
+      },
+      "id": "node/1430599359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1493002186",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1475974,
+          49.2727738
+        ]
+      },
+      "id": "node/1493002186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692226623",
+        "addr:housenumber": "433",
+        "addr:street": "Seymour Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "source": "survey",
+        "source:location": "extrapolation",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1134341,
+          49.2844631
+        ]
+      },
+      "id": "node/1692226623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1945200999",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1200147,
+          49.2875394
+        ]
+      },
+      "id": "node/1945200999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2188770941",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1116688,
+          49.285758
+        ]
+      },
+      "id": "node/2188770941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2270985533",
+        "addr:city": "Vancouver",
+        "addr:street": "Mainland Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.122111,
+          49.274665
+        ]
+      },
+      "id": "node/2270985533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2488961355",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.141423,
+          49.287236
+        ]
+      },
+      "id": "node/2488961355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2612803371",
+        "addr:housenumber": "1088",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-18:00; Sa-Su 06:00-18:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.127256,
+          49.280139
+        ]
+      },
+      "id": "node/2612803371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2980393408",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-22:00; Sa,Su 06:00-22:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1285584,
+          49.2872169
+        ]
+      },
+      "id": "node/2980393408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3285109761",
+        "addr:housenumber": "999",
+        "addr:street": "Canada Place",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1133343,
+          49.2877059
+        ]
+      },
+      "id": "node/3285109761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3681627724",
+        "addr:housenumber": "860",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1296758,
+          49.277133
+        ]
+      },
+      "id": "node/3681627724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3720061727",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:00-20:00; Sa 07:00-18:30; Su 07:00-17:30",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1156531,
+          49.2829884
+        ]
+      },
+      "id": "node/3720061727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733886377",
+        "addr:housenumber": "785",
+        "addr:street": "Denman Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 06:30-22:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1354557,
+          49.2916513
+        ]
+      },
+      "id": "node/3733886377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3738439091",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "720",
+        "addr:street": "Granville Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:00-23:00; Sa 05:30-23:30; Su 06:00-23:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.118486,
+          49.2820489
+        ]
+      },
+      "id": "node/3738439091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3743637011",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "960",
+        "addr:street": "Seymour Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1212246,
+          49.2789586
+        ]
+      },
+      "id": "node/3743637011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3755320525",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1014",
+        "addr:street": "West Georgia Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-19:00; Sa,Su 07:00-18:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1218388,
+          49.2846244
+        ]
+      },
+      "id": "node/3755320525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3763313288",
+        "addr:city": "Vancouver",
+        "addr:province": "BC",
+        "addr:street": "West Georgia Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1205667,
+          49.2850423
+        ]
+      },
+      "id": "node/3763313288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945297424",
+        "addr:housenumber": "891",
+        "addr:street": "Dunsmuir Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1180639,
+          49.284888
+        ]
+      },
+      "id": "node/3945297424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945299522",
+        "addr:street": "Hornby Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-20:00; Sa,Su 07:00-20:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.122325,
+          49.2824438
+        ]
+      },
+      "id": "node/3945299522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4122488563",
+        "addr:housenumber": "1067",
+        "addr:street": "West Cordova Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "website": "starbucks.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1177149,
+          49.2885656
+        ]
+      },
+      "id": "node/4122488563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4321197591",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1143935,
+          49.2873431
+        ]
+      },
+      "id": "node/4321197591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343623489",
+        "addr:city": "Vancouver",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1149238,
+          49.2876133
+        ]
+      },
+      "id": "node/4343623489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298467987",
+        "addr:housenumber": "1033",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "description": "The cafe is in the upper floor of the Indigo.",
+        "level": "1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1235612,
+          49.2840399
+        ]
+      },
+      "id": "node/6298467987"
+    }
+  ]
+}

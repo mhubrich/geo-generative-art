@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-31T23:50:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2269956731",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "821",
+        "addr:street": "Granville Street",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "cuisine": "burger",
+        "drive_in": "no",
+        "drive_through": "no",
+        "name": "Burger King",
+        "opening_hours": "24/7",
+        "payment:debit_cards": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1204114,
+          49.2811705
+        ]
+      },
+      "id": "node/2269956731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3764696417",
+        "addr:housenumber": "612",
+        "addr:street": "West Pender Street",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1142912,
+          49.2841391
+        ]
+      },
+      "id": "node/3764696417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956111822",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "name:en": "Burger King",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1390161,
+          49.2889429
+        ]
+      },
+      "id": "node/4956111822"
+    }
+  ]
+}

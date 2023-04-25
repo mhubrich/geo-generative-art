@@ -1,0 +1,4520 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-06-01T01:14:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/338846654",
+        "amenity": "cafe",
+        "created_by": "Potlatch 0.10f",
+        "name": "New Amsterdam Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1098733,
+          49.2829831
+        ]
+      },
+      "id": "node/338846654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502425631",
+        "addr:housenumber": "125",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11993,
+          49.2733132
+        ]
+      },
+      "id": "node/502425631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/505797244",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1725",
+        "addr:street": "Robson Street",
+        "addr:unit": "2",
+        "amenity": "cafe",
+        "name": "YiFang Taiwan Fruit Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1342117,
+          49.290842
+        ]
+      },
+      "id": "node/505797244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/513053593",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1169322,
+          49.2792817
+        ]
+      },
+      "id": "node/513053593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/513053838",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "987",
+        "addr:street": "Mainland Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1187373,
+          49.2772564
+        ]
+      },
+      "id": "node/513053838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/513053865",
+        "addr:housenumber": "868",
+        "addr:street": "Beatty Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-20:00; Sa-Su 07:00-19:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1148343,
+          49.2768092
+        ]
+      },
+      "id": "node/513053865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/571309050",
+        "addr:housenumber": "1099",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-00:00; Sa-Su 06:00-00:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1245931,
+          49.2846042
+        ]
+      },
+      "id": "node/571309050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/638747935",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "700",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "cuisine": "coffee",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Blenz Coffee",
+        "opening_hours": "Su-Th 06:30-01:00; Fr-Sa 06:30-02:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1264714,
+          49.2771432
+        ]
+      },
+      "id": "node/638747935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/638752000",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "498",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-21:00; Sa 06:30-21:00; Su 07:00-20:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1178938,
+          49.2799212
+        ]
+      },
+      "id": "node/638752000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/638771020",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "900",
+        "addr:postcode": "V6Z 2M4",
+        "addr:street": "Howe Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Waves Coffee House",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 09:00-21:00; Su 09:00-19:00",
+        "outdoor_seating": "yes",
+        "payment:bitcoin": "yes",
+        "website": "https://wavescoffee.com/",
+        "yelp": "http://www.yelp.com/biz/waves-coffee-house-vancouver-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1224892,
+          49.2807244
+        ]
+      },
+      "id": "node/638771020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/638861823",
+        "amenity": "cafe",
+        "name": "Prego Cofee",
+        "opening_hours": "Mo-Sa 06:00-18:00; Su 08:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1333344,
+          49.2750713
+        ]
+      },
+      "id": "node/638861823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/649986496",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "799",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Nordstrom E-Bar",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1191044,
+          49.2822856
+        ]
+      },
+      "id": "node/649986496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/649986497",
+        "addr:housenumber": "888",
+        "addr:street": "Dunsmuir Street",
+        "amenity": "cafe",
+        "name": "Caffe Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1181578,
+          49.2845541
+        ]
+      },
+      "id": "node/649986497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/651055563",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "999",
+        "addr:street": "Granville Street",
+        "amenity": "cafe",
+        "name": "Blenz Coffee",
+        "opening_hours": "Mo-Th 07:00-00:00; Fr 07:00-03:00; Sa 08:00-03:00; Su 08:30-23:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1230068,
+          49.2794404
+        ]
+      },
+      "id": "node/651055563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/652955238",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "338",
+        "addr:postcode": "V6B 6C5",
+        "addr:street": "Helmcken Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "email": "yaletown@blenz.com",
+        "internet_access": "wlan",
+        "level": "0",
+        "name": "Blenz Coffee",
+        "opening_hours": "Mo-Th 06:00-22:00; Fr 06:00-23:00; Sa 07:00-23:00; Su 07:00-22:00",
+        "phone": "+1-604-609-2768",
+        "smoking": "no",
+        "website": "https://blenz.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1211099,
+          49.2757856
+        ]
+      },
+      "id": "node/652955238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/686162067",
+        "amenity": "cafe",
+        "name": "Blenz",
+        "opening_hours": "Mo-Th 06:30-23:00; Fr 06:30-24:00; Sa 07:00-24:00; Su 07:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1269715,
+          49.2861774
+        ]
+      },
+      "id": "node/686162067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/736729137",
+        "amenity": "cafe",
+        "name": "Bubble World Tea House",
+        "shop": "tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1287891,
+          49.2873653
+        ]
+      },
+      "id": "node/736729137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/779225247",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa 06:30-22:00; Su 06:30-21:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1086358,
+          49.2843874
+        ]
+      },
+      "id": "node/779225247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/793915417",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1225",
+        "addr:street": "Burrard Street",
+        "amenity": "cafe",
+        "name": "Molli Cafe",
+        "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-19:00",
+        "phone": "+1-778-862-1394"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1301016,
+          49.2787557
+        ]
+      },
+      "id": "node/793915417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/793915420",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1097",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 05:30-00:00",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1309375,
+          49.2803846
+        ]
+      },
+      "id": "node/793915420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/811017755",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "756",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "opening_hours": "24/7",
+        "operator": "Restaurant Brands International Inc.",
+        "takeaway": "yes",
+        "website": "https://www.timhortons.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1272193,
+          49.2776017
+        ]
+      },
+      "id": "node/811017755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/811017763",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1095",
+        "addr:street": "Howe Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-19:00; Sa-Su 06:00-18:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1255832,
+          49.2790558
+        ]
+      },
+      "id": "node/811017763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/811017771",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "605",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-20:00; Sa,Su 06:00-20:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1252348,
+          49.2767389
+        ]
+      },
+      "id": "node/811017771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/823543751",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1198",
+        "addr:postcode": "V6E 2R9",
+        "addr:street": "West Pender Street",
+        "amenity": "cafe",
+        "name": "Waves Coffee House",
+        "phone": "+1-604-568-0390",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1233339,
+          49.2882295
+        ]
+      },
+      "id": "node/823543751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/905401762",
+        "amenity": "cafe",
+        "name": "Wall Flowers",
+        "name:en": "Wall Flowers",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "phone": "+1-604-646-9006",
+        "shop": "florist",
+        "website": "https://www.wall-flowers.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.12543,
+          49.2803909
+        ]
+      },
+      "id": "node/905401762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/905415420",
+        "addr:housenumber": "930",
+        "addr:street": "Burrard Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 05:30-22:30; Fr 05:30-23:00; Sa 06:00-23:00; Su 06:00-22:30",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1246565,
+          49.2817947
+        ]
+      },
+      "id": "node/905415420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/926024506",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1239772,
+          49.2878625
+        ]
+      },
+      "id": "node/926024506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1151271753",
+        "amenity": "cafe",
+        "indoor": "yes",
+        "name": "JJBean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1351454,
+          49.272173
+        ]
+      },
+      "id": "node/1151271753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1151314160",
+        "addr:unit": "103",
+        "amenity": "cafe",
+        "indoor": "yes",
+        "name": "Petit Ami",
+        "phone": "+1-604-682-4044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.135486,
+          49.2725816
+        ]
+      },
+      "id": "node/1151314160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1151315893",
+        "amenity": "cafe",
+        "name": "The Blue Parrot Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1348732,
+          49.2729649
+        ]
+      },
+      "id": "node/1151315893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1151336635",
+        "amenity": "cafe",
+        "indoor": "yes",
+        "name": "à la mode"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.134633,
+          49.2724188
+        ]
+      },
+      "id": "node/1151336635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1187565831",
+        "addr:housenumber": "302",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "name": "Caffé Artigiano",
+        "opening_hours": "Mo-Su 06:00-18:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1224197,
+          49.2745255
+        ]
+      },
+      "id": "node/1187565831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1187582130",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "402",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "JJBean",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1236127,
+          49.2752575
+        ]
+      },
+      "id": "node/1187582130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1187583267",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "437",
+        "addr:postcode": "V6B 2G2",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "cuisine": "juice",
+        "name": "Glory Juice",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 08:00-19:00",
+        "outdoor_seating": "yes",
+        "website": "https://gloryjuiceco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1233974,
+          49.2755725
+        ]
+      },
+      "id": "node/1187583267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1187585332",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "477",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "cuisine": "coffee",
+        "name": "Coo Coo Coffee",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1237304,
+          49.2757381
+        ]
+      },
+      "id": "node/1187585332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1383819541",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "668",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "name": "Persian Tea House",
+        "opening_hours": "Su-Th 16:00-23:00, Fr,Sa 16:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.126064,
+          49.276885
+        ]
+      },
+      "id": "node/1383819541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1391864569",
+        "amenity": "cafe",
+        "name": "Sciué"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1161798,
+          49.2852515
+        ]
+      },
+      "id": "node/1391864569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1392627194",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 05:30-21:00; Fr 05:30-22:00; Sa 07:00-22:00; Su 07:00-21:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.115193,
+          49.2846685
+        ]
+      },
+      "id": "node/1392627194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1392627289",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "opening_hours": "Mo,Tu 10:00-19:00; We-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00",
+        "operator": "Restaurant Brands International Inc.",
+        "takeaway": "yes",
+        "website": "https://www.timhortons.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.115582,
+          49.284954
+        ]
+      },
+      "id": "node/1392627289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1395459765",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1152363,
+          49.2859592
+        ]
+      },
+      "id": "node/1395459765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1430599359",
+        "addr:unit": "1089",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-22:00; Sa 06:00-22:00; Su 06:00-21:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1073562,
+          49.2799372
+        ]
+      },
+      "id": "node/1430599359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1493002186",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1475974,
+          49.2727738
+        ]
+      },
+      "id": "node/1493002186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1572449336",
+        "addr:city": "Vancouver",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1145811,
+          49.2874193
+        ]
+      },
+      "id": "node/1572449336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692226623",
+        "addr:housenumber": "433",
+        "addr:street": "Seymour Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "source": "survey",
+        "source:location": "extrapolation",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1134341,
+          49.2844631
+        ]
+      },
+      "id": "node/1692226623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692226633",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Tim Hortons",
+        "operator": "Restaurant Brands International Inc.",
+        "source": "survey",
+        "source:location": "gps",
+        "takeaway": "yes",
+        "website": "https://www.timhortons.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1120652,
+          49.2850471
+        ]
+      },
+      "id": "node/1692226633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1785478260",
+        "addr:housenumber": "550",
+        "addr:postcode": "V6C 2B5",
+        "addr:street": "Burrard Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Blenz Coffee",
+        "opening_hours": "Mo-Fr 06:00-18:00",
+        "phone": "+1-604-687-6177",
+        "website": "https://blenz.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1182815,
+          49.2859301
+        ]
+      },
+      "id": "node/1785478260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1793682461",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "603",
+        "addr:street": "Abbott Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Blenz",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1078508,
+          49.2796325
+        ]
+      },
+      "id": "node/1793682461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1897394215",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1100",
+        "addr:street": "Burrard Street",
+        "amenity": "cafe",
+        "cuisine": "coffee",
+        "name": "Elysian Coffee Roasters",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa-Su 09:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1276754,
+          49.2798648
+        ]
+      },
+      "id": "node/1897394215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927024490",
+        "addr:city": "Vancovuer",
+        "addr:housenumber": "126",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "cuisine": "italian",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Sciué Italian Bakery Caffé",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su,PH 08:00-19:00",
+        "outdoor_seating": "yes",
+        "website": "https://www.sciue.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1207367,
+          49.2732067
+        ]
+      },
+      "id": "node/1927024490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1938712081",
+        "addr:housenumber": "321",
+        "addr:street": "Water Street",
+        "amenity": "cafe",
+        "name": "Trees Organic Coffee",
+        "website": "https://treescoffee.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1093205,
+          49.2845775
+        ]
+      },
+      "id": "node/1938712081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1938712091",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "175",
+        "addr:postcode": "V6B 1H4",
+        "addr:province": "BC",
+        "addr:street": "West Hastings Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Bean Around The World",
+        "opening_hours": "Mo 07:00-18:00; Tu-Fr 07:00-19:00; Sa 09:00-19:00; Su 09:00-18:00",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.fuelledbycaffeine.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1092466,
+          49.2825011
+        ]
+      },
+      "id": "node/1938712091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1944610563",
+        "addr:city": "Vancouver",
+        "addr:province": "BC",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "opening_hours": "24/7",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1209459,
+          49.2848332
+        ]
+      },
+      "id": "node/1944610563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1945200999",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1200147,
+          49.2875394
+        ]
+      },
+      "id": "node/1945200999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2070416873",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "947",
+        "addr:street": "Hornby Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "delivery": "no",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "Tim Hortons",
+        "opening_hours": "Mo-Sa 06:00-21:00; Su,PH 07:00-21:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1242771,
+          49.2811807
+        ]
+      },
+      "id": "node/2070416873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2070422980",
+        "addr:city": "Vancouver",
+        "addr:street": "Hornby Street",
+        "amenity": "cafe",
+        "name": "Cafe Bellagio",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.121574,
+          49.283029
+        ]
+      },
+      "id": "node/2070422980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2138608215",
+        "addr:housenumber": "117",
+        "addr:postcode": "V6B 4M3",
+        "addr:street": "Water Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Prado",
+        "opening_hours": "07:00-18:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1069471,
+          49.2841207
+        ]
+      },
+      "id": "node/2138608215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2168314490",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "325",
+        "addr:postcode": "V6B 1H7",
+        "addr:street": "Cambie Street",
+        "alt_name": "Revolver Coffee",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Revolver",
+        "opening_hours": "Mo-Fr 07:30-18:00; Sa 09:00-18:00",
+        "website": "http://revolvercoffee.ca/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1094595,
+          49.2831716
+        ]
+      },
+      "id": "node/2168314490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2188770941",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1116688,
+          49.285758
+        ]
+      },
+      "id": "node/2188770941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2270985533",
+        "addr:city": "Vancouver",
+        "addr:street": "Mainland Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.122111,
+          49.274665
+        ]
+      },
+      "id": "node/2270985533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2320273636",
+        "amenity": "cafe",
+        "name": "Urban Tea Merchant",
+        "shop": "tea",
+        "source": "survey",
+        "website": "http://www.urbantea.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1229586,
+          49.2853887
+        ]
+      },
+      "id": "node/2320273636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2321011473",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1224",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "cuisine": "chinese",
+        "name": "Ho Ho's Yummy Food",
+        "phone": "+1-604-688-9896",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1340707,
+          49.2820786
+        ]
+      },
+      "id": "node/2321011473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2321011487",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "cuisine": "mexican",
+        "name": "Sumac Cafe",
+        "opening_hours": "Mo-Fr 12:00-20:00; Su 14:00-18:00",
+        "phone": "+1-604-336-0256",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1341558,
+          49.282131
+        ]
+      },
+      "id": "node/2321011487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2321011519",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1244",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Melriches Coffee House",
+        "opening_hours": "Mo-Fr 06:00-21:30; Sa 06:30-21:30; Su 07:00-21:30",
+        "phone": "+1-604-689-5282",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1343416,
+          49.2822483
+        ]
+      },
+      "id": "node/2321011519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2321014524",
+        "addr:city": "Vancouver",
+        "addr:province": "BC",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "cuisine": "diner",
+        "name": "Mary's on Davie",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 08:00-23:00",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1335605,
+          49.2817505
+        ]
+      },
+      "id": "node/2321014524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2321115811",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1203",
+        "addr:postcode": "V6E 1N4",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Blenz Coffee",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "phone": "+1-604-568-4428",
+        "smoking": "no",
+        "source": "survey",
+        "website": "https://blenz.com/",
+        "wikidata": "Q4926090",
+        "wikipedia": "en:Blenz Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1333845,
+          49.2819635
+        ]
+      },
+      "id": "node/2321115811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2331296258",
+        "amenity": "cafe",
+        "name": "Sunset Beach Consession Stand",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1378619,
+          49.2787671
+        ]
+      },
+      "id": "node/2331296258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2410513050",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "767",
+        "addr:postcode": "V6B 5J3",
+        "addr:street": "Seymour Street",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Blenz Coffee",
+        "payment:bitcoin": "no",
+        "phone": "+1-604-633-0144",
+        "website": "https://blenz.com/",
+        "yelp": "http://www.yelp.com/biz/blenz-coffee-vancouver-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.118654,
+          49.2810287
+        ]
+      },
+      "id": "node/2410513050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2488859905",
+        "addr:street": "Burrard Street",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "JJ Bean",
+        "source": "Local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1169095,
+          49.2874022
+        ]
+      },
+      "id": "node/2488859905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2488891724",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1102",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "cuisine": "french",
+        "name": "Baguette cafe",
+        "opening_hours": "Mo-Th 08:00-19:00; Fr-Su 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.131581,
+          49.280456
+        ]
+      },
+      "id": "node/2488891724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2488961355",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.141423,
+          49.287236
+        ]
+      },
+      "id": "node/2488961355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2490635049",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "998",
+        "addr:street": "Granville Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "drive_through": "no",
+        "name": "Tim Hortons",
+        "opening_hours": "Mo-Su 05:00-00:00",
+        "operator": "Restaurant Brands International Inc.",
+        "takeaway": "yes",
+        "website": "https://www.timhortons.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1227256,
+          49.2792354
+        ]
+      },
+      "id": "node/2490635049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2612803371",
+        "addr:housenumber": "1088",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-18:00; Sa-Su 06:00-18:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.127256,
+          49.280139
+        ]
+      },
+      "id": "node/2612803371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2911718436",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "855",
+        "addr:postcode": "V6Z 1B7",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Breka Bakery & Café",
+        "opening_hours": "24/7",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-428-8080",
+        "website": "http://www.breka.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1278962,
+          49.278414
+        ]
+      },
+      "id": "node/2911718436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2980393408",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-22:00; Sa,Su 06:00-22:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1285584,
+          49.2872169
+        ]
+      },
+      "id": "node/2980393408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2985506746",
+        "addr:housenumber": "211",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "name": "Waves Coffee House",
+        "opening_hours": "Mo-Fr 06:00-17:30; Sa,Su 07:00-17:00",
+        "phone": "+1-604-696-9283",
+        "website": "https://wavescoffee.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1149456,
+          49.278383
+        ]
+      },
+      "id": "node/2985506746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3046658942",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1308",
+        "addr:postcode": "V6Z 2B7",
+        "addr:street": "Burrard Street",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "internet_access": "yes",
+        "name": "Number e Food",
+        "phone": "+1-604-559-6863",
+        "website": "https://www.numefood.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1309686,
+          49.2777096
+        ]
+      },
+      "id": "node/3046658942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3235442692",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "108",
+        "addr:street": "West Pender Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "opening_hours": "24/7",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.107834,
+          49.2809701
+        ]
+      },
+      "id": "node/3235442692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3285109761",
+        "addr:housenumber": "999",
+        "addr:street": "Canada Place",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1133343,
+          49.2877059
+        ]
+      },
+      "id": "node/3285109761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3349165006",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "602",
+        "addr:postcode": "V6B 5A7",
+        "addr:street": "West Cordova Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Sciué",
+        "phone": "+1-604-559-3435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1122226,
+          49.2853345
+        ]
+      },
+      "id": "node/3349165006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3355437631",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1101",
+        "addr:postcode": "V6E 2P4",
+        "addr:street": "West Pender Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "name": "Caffè Artigiano",
+        "opening_hours": "Mo-Fr 05:30-18:00; Sa-Su 06:30-17:00",
+        "phone": "+1-604-685-5333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1205021,
+          49.2876852
+        ]
+      },
+      "id": "node/3355437631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3550807978",
+        "addr:housenumber": "805",
+        "addr:street": "Denman Street",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "The Spot Cafe",
+        "phone": "+1-604-602-9529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1356594,
+          49.291492
+        ]
+      },
+      "id": "node/3550807978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3641470557",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1209",
+        "addr:street": "Bidwell Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "drive_through": "no",
+        "name": "JJ Beans",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1406216,
+          49.2861756
+        ]
+      },
+      "id": "node/3641470557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3646944277",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "556",
+        "addr:postcode": "V6B 2L3",
+        "addr:street": "Beatty Street",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Jam Cafe",
+        "opening_hours": "Mo-Su 08:00-15:00",
+        "phone": "+1-604-336-3554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1096811,
+          49.2803078
+        ]
+      },
+      "id": "node/3646944277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3681627724",
+        "addr:housenumber": "860",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1296758,
+          49.277133
+        ]
+      },
+      "id": "node/3681627724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3687593480",
+        "addr:housenumber": "1188",
+        "addr:street": "Alberni Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "JJ Bean",
+        "opening_hours": "Mo-Fr 06:00-19:00; Sa,Su 07:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1258963,
+          49.2865106
+        ]
+      },
+      "id": "node/3687593480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3690934723",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "818",
+        "addr:street": "Bute Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Breka Bakery & Café",
+        "opening_hours": "24/7",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-620-8200",
+        "smoking": "no",
+        "website": "http://www.breka.ca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1272801,
+          49.285665
+        ]
+      },
+      "id": "node/3690934723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3690936025",
+        "amenity": "cafe",
+        "name": "Cafe Rico",
+        "opening_hours": "Mo-Th 07:00-01:00; Fr,Sa 07:00-02:00; Su 08:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1285213,
+          49.2868188
+        ]
+      },
+      "id": "node/3690936025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3690938880",
+        "addr:housenumber": "1299",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1283167,
+          49.2870412
+        ]
+      },
+      "id": "node/3690938880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3720061726",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "607",
+        "addr:street": "Dunsmuir Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Tim Hortons",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1155257,
+          49.2832205
+        ]
+      },
+      "id": "node/3720061726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3720061727",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:00-20:00; Sa 07:00-18:30; Su 07:00-17:30",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1156531,
+          49.2829884
+        ]
+      },
+      "id": "node/3720061727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3726311749",
+        "addr:housenumber": "451",
+        "addr:street": "Granville Street",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Quantum Coffee",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 08:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1145937,
+          49.2850193
+        ]
+      },
+      "id": "node/3726311749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3728581382",
+        "addr:housenumber": "1233",
+        "addr:street": "Burrard Street",
+        "amenity": "cafe",
+        "name": "Maple Leaf Delicatessen Coffe Shop",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su 10:00-17:00",
+        "phone": "+1-604-689-3411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1302045,
+          49.2787028
+        ]
+      },
+      "id": "node/3728581382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733886377",
+        "addr:housenumber": "785",
+        "addr:street": "Denman Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 06:30-22:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1354557,
+          49.2916513
+        ]
+      },
+      "id": "node/3733886377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3734928054",
+        "addr:housenumber": "780",
+        "addr:postcode": "V6B 3A4",
+        "addr:street": "Richards Street",
+        "amenity": "cafe",
+        "name": "Cafe Medina",
+        "name:en": "Café Medina",
+        "name:fi": "Café Medina",
+        "opening_hours": "Mo-Fr 08:00-15:00; Sa-Su 09:00-15:00",
+        "phone": "+1-604-879-3114",
+        "website": "https://www.medinacafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1169062,
+          49.2805588
+        ]
+      },
+      "id": "node/3734928054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3734942959",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Beyond Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1269099,
+          49.2809406
+        ]
+      },
+      "id": "node/3734942959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3736867781",
+        "addr:housenumber": "193",
+        "addr:street": "Keefer Place",
+        "amenity": "cafe",
+        "name": "Brothers",
+        "opening_hours": "Mo-Fr 07:30-22:00; Sa-Su 09:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1086595,
+          49.2800297
+        ]
+      },
+      "id": "node/3736867781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3738439091",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "720",
+        "addr:street": "Granville Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:00-23:00; Sa 05:30-23:30; Su 06:00-23:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.118486,
+          49.2820489
+        ]
+      },
+      "id": "node/3738439091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3738440876",
+        "addr:housenumber": "353",
+        "addr:street": "West Pender Street",
+        "amenity": "cafe",
+        "name": "Finch's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1116632,
+          49.2827779
+        ]
+      },
+      "id": "node/3738440876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3743637011",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "960",
+        "addr:street": "Seymour Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1212246,
+          49.2789586
+        ]
+      },
+      "id": "node/3743637011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3743637013",
+        "addr:housenumber": "1002",
+        "addr:street": "Seymour Street",
+        "amenity": "cafe",
+        "name": "Nero Belgian Waffle Bar",
+        "opening_hours": "Mo-Th,Su 09:00-23:00; Fr,Sa 09:00-00:00",
+        "website": "http://www.nerowafflebar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1220442,
+          49.2783848
+        ]
+      },
+      "id": "node/3743637013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3748627420",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "898",
+        "addr:street": "Homer Street",
+        "amenity": "cafe",
+        "name": "Homer St Cafe and Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1182179,
+          49.2784178
+        ]
+      },
+      "id": "node/3748627420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3753258029",
+        "addr:housenumber": "515",
+        "addr:street": "Hamilton Street",
+        "amenity": "cafe",
+        "name": "Java Cat",
+        "opening_hours": "Mo-Fr 07:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1117459,
+          49.2817816
+        ]
+      },
+      "id": "node/3753258029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3753945312",
+        "amenity": "cafe",
+        "name": "Truffles",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa,Su 09:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1268532,
+          49.2777827
+        ]
+      },
+      "id": "node/3753945312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3753957571",
+        "addr:housenumber": "492",
+        "addr:street": "West Hastings Street",
+        "amenity": "cafe",
+        "name": "Waves Coffee",
+        "opening_hours": "Mo-Fr 07:00-24:00, Sa 08:00-24:00, Su 08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1118877,
+          49.2838195
+        ]
+      },
+      "id": "node/3753957571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3755320525",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1014",
+        "addr:street": "West Georgia Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-19:00; Sa,Su 07:00-18:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1218388,
+          49.2846244
+        ]
+      },
+      "id": "node/3755320525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3763313288",
+        "addr:city": "Vancouver",
+        "addr:province": "BC",
+        "addr:street": "West Georgia Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1205667,
+          49.2850423
+        ]
+      },
+      "id": "node/3763313288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3769892469",
+        "addr:housenumber": "490",
+        "addr:street": "Hornby Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1163367,
+          49.2860889
+        ]
+      },
+      "id": "node/3769892469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3788419828",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "415",
+        "addr:street": "Abbott Street",
+        "amenity": "cafe",
+        "cuisine": "pizza",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "only",
+        "name": "Vegan Cave",
+        "operator": "Caveman Cafe Inc.",
+        "outdoor_seating": "no",
+        "website": "http://vegancave.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1074624,
+          49.2818025
+        ]
+      },
+      "id": "node/3788419828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3788422606",
+        "addr:housenumber": "102",
+        "addr:street": "West Hastings Street",
+        "amenity": "cafe",
+        "name": "Nectar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1075035,
+          49.2819026
+        ]
+      },
+      "id": "node/3788422606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3788422957",
+        "addr:housenumber": "100",
+        "addr:street": "West Hastings Street",
+        "amenity": "cafe",
+        "name": "Prado",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 08:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1074453,
+          49.2818951
+        ]
+      },
+      "id": "node/3788422957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789850768",
+        "amenity": "cafe",
+        "name": "Edel Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1161579,
+          49.2862256
+        ]
+      },
+      "id": "node/3789850768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789850773",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "426",
+        "addr:street": "West Hastings Street",
+        "amenity": "cafe",
+        "name": "Bonchaz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.111511,
+          49.2835903
+        ]
+      },
+      "id": "node/3789850773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789851067",
+        "amenity": "cafe",
+        "name": "Caffè Artigiano",
+        "opening_hours": "Mo-Fr 06:00-17:30; Sa,Su,PH 07:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1147275,
+          49.2856543
+        ]
+      },
+      "id": "node/3789851067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789881497",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "655",
+        "addr:street": "West Pender Street",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "name": "CoCo Fresh Tea & Juice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.114372,
+          49.2845132
+        ]
+      },
+      "id": "node/3789881497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789883051",
+        "addr:housenumber": "335",
+        "addr:street": "West Pender Street",
+        "amenity": "cafe",
+        "name": "Social Crust",
+        "opening_hours": "Mo-Fr 08:00-14:00",
+        "phone": "+1-604-684-3352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1113699,
+          49.2825674
+        ]
+      },
+      "id": "node/3789883051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789883863",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "505",
+        "addr:street": "West Pender Street",
+        "amenity": "cafe",
+        "name": "Moii Cafe",
+        "opening_hours": "Mo-Fr 12:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1129034,
+          49.2835821
+        ]
+      },
+      "id": "node/3789883863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3797414483",
+        "addr:housenumber": "1020",
+        "addr:street": "Howe Street",
+        "amenity": "cafe",
+        "name": "YaYa's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1241526,
+          49.2795831
+        ]
+      },
+      "id": "node/3797414483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3798834557",
+        "addr:street": "Howe Street",
+        "amenity": "cafe",
+        "name": "Mario's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1171091,
+          49.2846002
+        ]
+      },
+      "id": "node/3798834557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3892520182",
+        "addr:housenumber": "1312",
+        "addr:street": "Burrard Street",
+        "amenity": "cafe",
+        "name": "Gemini tea bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1310886,
+          49.2776328
+        ]
+      },
+      "id": "node/3892520182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3892521307",
+        "addr:housenumber": "863",
+        "addr:street": "Beatty Street",
+        "amenity": "cafe",
+        "name": "Rocanini",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa-Su 08:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1151076,
+          49.2770169
+        ]
+      },
+      "id": "node/3892521307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3898779121",
+        "addr:housenumber": "311",
+        "addr:street": "West Cordova Street",
+        "amenity": "cafe",
+        "description": "A cafe for coffee and cookies.",
+        "name": "Timbertrain",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa,Su 08:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1094962,
+          49.2839055
+        ]
+      },
+      "id": "node/3898779121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3898779301",
+        "addr:housenumber": "301",
+        "amenity": "cafe",
+        "name": "Bamboo Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1092308,
+          49.2837399
+        ]
+      },
+      "id": "node/3898779301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3932735753",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1116",
+        "addr:street": "Homer Street",
+        "amenity": "cafe",
+        "cuisine": "tea",
+        "name": "O-Cha Tea Bar",
+        "opening_hours": "Mo-Fr 07:30-17:00; Sa 09:30-16:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1217571,
+          49.2761071
+        ]
+      },
+      "id": "node/3932735753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3934596980",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1088",
+        "addr:postcode": "V6B 2W9",
+        "addr:street": "Homer Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;sandwich;tea",
+        "email": "info@smallvictory.ca",
+        "name": "Small Victory",
+        "opening_hours": "Mo-Fr 07:30-18:00; Sa,Su 08:00-18:00; PH 08:00-16:00",
+        "outdoor_seating": "yes",
+        "payment:credit_card": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-899-8892",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1212148,
+          49.2764571
+        ]
+      },
+      "id": "node/3934596980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3938037053",
+        "addr:housenumber": "994",
+        "addr:street": "Nicola St",
+        "amenity": "cafe",
+        "email": "info@greenhorncafe.com",
+        "name": "Greenhorn Espresso Bar",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa,Su 08:00-17:00",
+        "phone": "+1-604-428-2912",
+        "website": "http://www.greenhorncafe.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1340267,
+          49.2866311
+        ]
+      },
+      "id": "node/3938037053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3940612850",
+        "addr:housenumber": "146",
+        "addr:street": "West Cordova Street",
+        "amenity": "cafe",
+        "name": "JJ Bean",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su 08:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.107962,
+          49.2827821
+        ]
+      },
+      "id": "node/3940612850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945297424",
+        "addr:housenumber": "891",
+        "addr:street": "Dunsmuir Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1180639,
+          49.284888
+        ]
+      },
+      "id": "node/3945297424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945297425",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "763",
+        "addr:province": "BC",
+        "addr:street": "Hornby Street",
+        "amenity": "cafe",
+        "name": "Cafe Artigiano",
+        "phone": "+1-604-694-7737",
+        "website": "https://caffeartigiano.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1187816,
+          49.2848628
+        ]
+      },
+      "id": "node/3945297425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945297428",
+        "addr:city": "Vancouver",
+        "addr:province": "BC",
+        "addr:street": "Hornby Street",
+        "amenity": "cafe",
+        "name": "Cafe Artigiano",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1213927,
+          49.2831204
+        ]
+      },
+      "id": "node/3945297428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945298593",
+        "addr:street": "West Hastings Street",
+        "amenity": "cafe",
+        "name": "Blenz Coffee",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1122692,
+          49.2840267
+        ]
+      },
+      "id": "node/3945298593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945298601",
+        "amenity": "cafe",
+        "name": "My Honey's Buns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11997,
+          49.2840486
+        ]
+      },
+      "id": "node/3945298601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945298602",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "769",
+        "addr:street": "Hornby Street",
+        "amenity": "cafe",
+        "name": "Faubourg Paris",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1214778,
+          49.2830645
+        ]
+      },
+      "id": "node/3945298602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945299522",
+        "addr:street": "Hornby Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:30-20:00; Sa,Su 07:00-20:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.122325,
+          49.2824438
+        ]
+      },
+      "id": "node/3945299522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3947262072",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1290",
+        "addr:street": "Howe Street",
+        "amenity": "cafe",
+        "name": "Blue Mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1284758,
+          49.276729
+        ]
+      },
+      "id": "node/3947262072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3947262073",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "788",
+        "addr:street": "Drake Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "BC's Best Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1287931,
+          49.2765348
+        ]
+      },
+      "id": "node/3947262073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3949415931",
+        "addr:housenumber": "436",
+        "addr:street": "Richards Street",
+        "amenity": "cafe",
+        "description": "vegan café",
+        "diet:vegan": "only",
+        "name": "Indigo Age",
+        "opening_hours": "We-Su 11:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1125167,
+          49.2834975
+        ]
+      },
+      "id": "node/3949415931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3949417577",
+        "addr:housenumber": "356",
+        "addr:street": "West Cordova Street",
+        "amenity": "cafe",
+        "name": "Buro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1103327,
+          49.2844688
+        ]
+      },
+      "id": "node/3949417577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3949417994",
+        "addr:housenumber": "401",
+        "addr:street": "West Cordova Street",
+        "amenity": "cafe",
+        "name": "Brioche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1099164,
+          49.2841913
+        ]
+      },
+      "id": "node/3949417994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4018565350",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1069",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Tartine Bread and Pies",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1-604-685-7427",
+        "website": "http://tartine.ca/davie-street/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.130747,
+          49.2802555
+        ]
+      },
+      "id": "node/4018565350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4064424996",
+        "addr:housenumber": "1505",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "name": "PappaRoti",
+        "opening_hours": "Mo-Th 08:00-23:00; Sa 09:00-00:00; Fr 08:00-00:00; Su 09:00-23:00",
+        "phone": "+1-604-336-2867",
+        "website": "https://www.papparoti.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1311016,
+          49.2888664
+        ]
+      },
+      "id": "node/4064424996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4085838183",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "425",
+        "addr:street": "Dunsmuir Street",
+        "amenity": "cafe",
+        "cuisine": "coffee",
+        "name": "JJ Bean",
+        "opening_hours": "Mo-Fr 06:00-18:00",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1137317,
+          49.28207
+        ]
+      },
+      "id": "node/4085838183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4085840005",
+        "addr:housenumber": "415",
+        "addr:street": "Dunsmuir Street",
+        "amenity": "cafe",
+        "name": "Field & Social",
+        "opening_hours": "Mo-Fr 11:00-15:00",
+        "website": "https://www.fieldandsocial.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1136208,
+          49.2819959
+        ]
+      },
+      "id": "node/4085840005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4087792689",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "232",
+        "addr:postcode": "V6C",
+        "addr:street": "Howe Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Blenz Coffee",
+        "opening_hours": "Mo-Fr 06:00-19:00; Sa-Su 08:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1131691,
+          49.2868125
+        ]
+      },
+      "id": "node/4087792689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4087803430",
+        "amenity": "cafe",
+        "cuisine": "kebab",
+        "name": "Mediterranean Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1408632,
+          49.2877383
+        ]
+      },
+      "id": "node/4087803430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4122488563",
+        "addr:housenumber": "1067",
+        "addr:street": "West Cordova Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "website": "starbucks.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1177149,
+          49.2885656
+        ]
+      },
+      "id": "node/4122488563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211515697",
+        "addr:housenumber": "401",
+        "addr:postcode": "V6C 3R2",
+        "addr:street": "Burrard Street",
+        "amenity": "cafe",
+        "name": "Blenz Coffee",
+        "opening_hours": "Mo-Fr 06:00-17:00",
+        "phone": "+1-604-684-7000",
+        "website": "https://blenz.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1181012,
+          49.2870382
+        ]
+      },
+      "id": "node/4211515697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4232958059",
+        "addr:housenumber": "574",
+        "addr:street": "Granville Street",
+        "amenity": "cafe",
+        "name": "Caffe Artigiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1159815,
+          49.283684
+        ]
+      },
+      "id": "node/4232958059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4232965023",
+        "addr:housenumber": "450",
+        "addr:street": "Granville Street",
+        "amenity": "cafe",
+        "name": "Trees Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1143227,
+          49.2848065
+        ]
+      },
+      "id": "node/4232965023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4232965024",
+        "addr:housenumber": "466",
+        "addr:street": "Granville Street",
+        "amenity": "cafe",
+        "name": "Creme de la Crumb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1144476,
+          49.2847372
+        ]
+      },
+      "id": "node/4232965024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4272653091",
+        "addr:housenumber": "302",
+        "addr:street": "West Hastings Street",
+        "amenity": "cafe",
+        "name": "Nemesis",
+        "name:en": "Nemesis",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 09:00-17:00",
+        "website": "https://www.nemesis.coffee/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1102832,
+          49.282764
+        ]
+      },
+      "id": "node/4272653091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4321197591",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1143935,
+          49.2873431
+        ]
+      },
+      "id": "node/4321197591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4323354189",
+        "addr:housenumber": "1274",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "brand": "Chatime",
+        "brand:en": "Chatime",
+        "brand:wikidata": "Q16829306",
+        "brand:wikipedia": "en:Chatime",
+        "brand:zh": "日出茶太",
+        "cuisine": "bubble_tea",
+        "name": "Chatime",
+        "name:en": "Chatime",
+        "name:zh": "日出茶太",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1282087,
+          49.2866006
+        ]
+      },
+      "id": "node/4323354189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4323680592",
+        "addr:housenumber": "1223",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "name": "Abode"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1272344,
+          49.2864194
+        ]
+      },
+      "id": "node/4323680592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343347409",
+        "addr:housenumber": "1150",
+        "addr:street": "Alberni Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1249177,
+          49.2859029
+        ]
+      },
+      "id": "node/4343347409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343623489",
+        "addr:city": "Vancouver",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1149238,
+          49.2876133
+        ]
+      },
+      "id": "node/4343623489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4350402602",
+        "addr:housenumber": "1220",
+        "addr:street": "Bute Street",
+        "amenity": "cafe",
+        "name": "Exile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1336029,
+          49.2814778
+        ]
+      },
+      "id": "node/4350402602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422606789",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "386",
+        "addr:province": "BC",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Gong Cha",
+        "name:en": "Gong Cha",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1168269,
+          49.2792232
+        ]
+      },
+      "id": "node/4422606789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4470506689",
+        "addr:housenumber": "866",
+        "addr:postcode": "V6G 2L9",
+        "addr:street": "Denman Street",
+        "amenity": "cafe",
+        "name": "True Confections",
+        "name:en": "True Confections",
+        "opening_hours": "Mo-Su 12:00-00:00",
+        "phone": "+1-604-682-1292",
+        "website": "https://trueconfections.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1362563,
+          49.290792
+        ]
+      },
+      "id": "node/4470506689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4484536340",
+        "addr:city": "Vancouver",
+        "addr:country": "CA",
+        "addr:housenumber": "1789",
+        "addr:postcode": "V6G 1P5",
+        "addr:province": "BC",
+        "addr:street": "Comox Street",
+        "amenity": "cafe",
+        "name": "3 Quarters Full Cafe",
+        "phone": "+1-778-865-5578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1391648,
+          49.2885009
+        ]
+      },
+      "id": "node/4484536340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4591597596",
+        "addr:city": "Vancouver",
+        "amenity": "cafe",
+        "name": "Café Crêpe",
+        "name:en": "Café Crêpe",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1194673,
+          49.2814148
+        ]
+      },
+      "id": "node/4591597596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673023690",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1391",
+        "addr:street": "Richards Street",
+        "amenity": "cafe",
+        "name": "Trees Organic Coffee",
+        "name:en": "Trees Organic Coffee",
+        "note": "Starting 2019-Feb-25 the opening hours will permanently be extended to 8 PM on all days.",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:00",
+        "phone": "+1-604-689-1020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1273593,
+          49.2740655
+        ]
+      },
+      "id": "node/4673023690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4731543599",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "88",
+        "addr:street": "Pender Street",
+        "addr:unit": "1005",
+        "amenity": "cafe",
+        "diet:dairy_free": "yes",
+        "diet:gluten_free": "yes",
+        "diet:halal": "only",
+        "diet:paleo": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "info@cavemancafe.ca",
+        "level": "0",
+        "name": "Caveman Cafe",
+        "opening_hours": "Mo-Fr 11:00-22:00; Sa 12:00-22:00; Su 12:00-18:00",
+        "outdoor_seating": "no",
+        "payment:debit_cards": "yes",
+        "phone": "+1-604-331-0668",
+        "takeaway": "yes",
+        "website": "http://www.cavemancafe.ca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1070156,
+          49.2808098
+        ]
+      },
+      "id": "node/4731543599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4740836524",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1146371,
+          49.2881125
+        ]
+      },
+      "id": "node/4740836524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4796021822",
+        "addr:housenumber": "1752",
+        "addr:street": "Davie Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Tim Hortons",
+        "opening_hours": "Mo-Su 05:00-23:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1410036,
+          49.2865567
+        ]
+      },
+      "id": "node/4796021822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4842907232",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1026",
+        "addr:street": "Mainland Street",
+        "amenity": "cafe",
+        "name": "Chasers",
+        "name:en": "Chasers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1196355,
+          49.2760414
+        ]
+      },
+      "id": "node/4842907232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4842907240",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1066",
+        "addr:street": "Mainland Street",
+        "amenity": "cafe",
+        "name": "Lime & Moon Pie Company",
+        "name:en": "Lime & Moon Pie Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.120168,
+          49.2756829
+        ]
+      },
+      "id": "node/4842907240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4842976322",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1002",
+        "addr:street": "Mainland Street",
+        "amenity": "cafe",
+        "name": "Coffee House",
+        "name:en": "Coffee House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1190813,
+          49.2764101
+        ]
+      },
+      "id": "node/4842976322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4844898125",
+        "addr:housenumber": "920",
+        "addr:street": "Beatty Street",
+        "amenity": "cafe",
+        "name": "7Days Coffee",
+        "name:en": "7Days Coffee",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa-Su 08:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1157038,
+          49.276166
+        ]
+      },
+      "id": "node/4844898125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4922591983",
+        "addr:housenumber": "1059",
+        "addr:postcode": "V6E 1A1",
+        "addr:street": "Alberni Street",
+        "amenity": "cafe",
+        "name": "Thierry",
+        "opening_hours": "Mo-Fr 07:00-00:00; Sa-Su 08:00-00:00",
+        "website": "https://www.thierrychocolates.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1227707,
+          49.2847804
+        ]
+      },
+      "id": "node/4922591983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956101023",
+        "addr:housenumber": "1105",
+        "addr:street": "Denman Street",
+        "amenity": "cafe",
+        "name": "Delanys Coffee",
+        "name:en": "Delanys Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1405916,
+          49.2882578
+        ]
+      },
+      "id": "node/4956101023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956111721",
+        "amenity": "cafe",
+        "name": "Cacao 70",
+        "name:en": "Cacao 70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1395296,
+          49.2889364
+        ]
+      },
+      "id": "node/4956111721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4976343546",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "849",
+        "addr:street": "Denman Street",
+        "amenity": "cafe",
+        "name": "Milano Coffee Roasters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1365182,
+          49.2909208
+        ]
+      },
+      "id": "node/4976343546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4976343549",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "821",
+        "addr:street": "Denman Street",
+        "amenity": "cafe",
+        "name": "Breka Bakery & Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.135935,
+          49.2913209
+        ]
+      },
+      "id": "node/4976343549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4976349579",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "935",
+        "addr:street": "Denman Street",
+        "amenity": "cafe",
+        "name": "Blenz Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1375735,
+          49.2902367
+        ]
+      },
+      "id": "node/4976349579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4976349580",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "907",
+        "addr:street": "Denman Street",
+        "amenity": "cafe",
+        "name": "Hui Lau Shan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1372778,
+          49.2904186
+        ]
+      },
+      "id": "node/4976349580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023290622",
+        "addr:housenumber": "968",
+        "amenity": "cafe",
+        "name": "Railtown Cafe",
+        "name:en": "Railtown Cafe",
+        "opening_hours": "Mo-Fr 07:30-18:00; Sa-Su 11:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1232584,
+          49.2802382
+        ]
+      },
+      "id": "node/5023290622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5029289522",
+        "amenity": "cafe",
+        "level": "-1",
+        "name": "The Cockpit",
+        "name:en": "The Cockpit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1176585,
+          49.290443
+        ]
+      },
+      "id": "node/5029289522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075002323",
+        "amenity": "cafe",
+        "name": "Cafe Bel",
+        "name:en": "Cafe Bel",
+        "opening_hours": "Mo-Fr 06:30-17:00; Sa-Su 07:00-17:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1191002,
+          49.2833178
+        ]
+      },
+      "id": "node/5075002323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5248095721",
+        "addr:housenumber": "1001",
+        "addr:street": "Denman Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1388596,
+          49.2893869
+        ]
+      },
+      "id": "node/5248095721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5264844021",
+        "amenity": "cafe",
+        "name": "Nosherie",
+        "opening_hours": "Mo-Fr 07:30-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1165551,
+          49.2817211
+        ]
+      },
+      "id": "node/5264844021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5304513662",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "290",
+        "addr:postcode": "V6B 6A1",
+        "addr:province": "BC",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "internet_access": "wlan",
+        "name": "Jenjudan",
+        "opening_hours": "Su-Th 11:30-10:00, Fr-Sa 11:30-10:30",
+        "phone": "+16043767320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.115902,
+          49.2786375
+        ]
+      },
+      "id": "node/5304513662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5394641422",
+        "addr:city": "Vancouver",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Pallet Coffee Roasters",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa,Su 09:00-16:00",
+        "website": "https://www.palletcoffeeroasters.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1236378,
+          49.2798788
+        ]
+      },
+      "id": "node/5394641422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671122775",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "description": "The Tim Hortons is located underground between the Canada Line and the Vancouver Centre Mall.",
+        "level": "-1",
+        "name": "Tim Hortons",
+        "ref": "3719",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1185541,
+          49.2821466
+        ]
+      },
+      "id": "node/5671122775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5761161925",
+        "addr:city": "Vancouver",
+        "amenity": "cafe",
+        "name": "Bellaggio Café & Gelateria",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1150926,
+          49.2887562
+        ]
+      },
+      "id": "node/5761161925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5788272506",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "689",
+        "addr:street": "Thurlow Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "49th Parallel Café & Lucky's Doughnuts",
+        "opening_hours": "Mo-Fr 06:30-18:00; Sa,Su 07:00-17:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1230296,
+          49.2860362
+        ]
+      },
+      "id": "node/5788272506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5797379209",
+        "amenity": "cafe",
+        "name": "Café Crêpe Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1236177,
+          49.2836676
+        ]
+      },
+      "id": "node/5797379209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5962522386",
+        "amenity": "cafe",
+        "name": "Coffee Bogo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1392527,
+          49.2885653
+        ]
+      },
+      "id": "node/5962522386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6018376486",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1367",
+        "addr:street": "Richards Street",
+        "amenity": "cafe",
+        "name": "Doux Crêpes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1268723,
+          49.2743631
+        ]
+      },
+      "id": "node/6018376486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6047129788",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "579",
+        "addr:province": "BC",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "name": "Buro",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1185785,
+          49.2807258
+        ]
+      },
+      "id": "node/6047129788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177415985",
+        "addr:housenumber": "335",
+        "addr:postcode": "V6B 1T3",
+        "addr:street": "West Pender Street",
+        "amenity": "cafe",
+        "name": "Social Crust Cafe & Catering",
+        "opening_hours": "Mo-Fr 08:00-14:00",
+        "website": "https://www.socialcrustcafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1113926,
+          49.2825678
+        ]
+      },
+      "id": "node/6177415985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6216814221",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1689",
+        "addr:street": "Johnston Street",
+        "addr:unit": "22",
+        "amenity": "cafe",
+        "cuisine": "bagel",
+        "indoor": "yes",
+        "name": "Siegel's Bagels",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "website": "http://siegelsbagels.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.134966,
+          49.2720921
+        ]
+      },
+      "id": "node/6216814221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298467987",
+        "addr:housenumber": "1033",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "description": "The cafe is in the upper floor of the Indigo.",
+        "level": "1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1235612,
+          49.2840399
+        ]
+      },
+      "id": "node/6298467987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6322544026",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "name": "Tim Hortons",
+        "outdoor_seating": "no",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1216196,
+          49.2875882
+        ]
+      },
+      "id": "node/6322544026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6545660733",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1232",
+        "addr:street": "Robson street",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Meet Fresh Robson",
+        "opening_hours": "Mo-Th,Su 11:00-23:00; Fr,Sa 11:00-00:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1277327,
+          49.2862969
+        ]
+      },
+      "id": "node/6545660733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6738071639",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1194",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "name": "Prime's Thai Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1270004,
+          49.2858499
+        ]
+      },
+      "id": "node/6738071639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6752015489",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1190",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "name": "Castella Cheesecake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1269044,
+          49.2857878
+        ]
+      },
+      "id": "node/6752015489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6758102785",
+        "addr:housenumber": "1328",
+        "addr:street": "Richards Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Matchstick",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "website": "https://matchstickyvr.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1262124,
+          49.2743949
+        ]
+      },
+      "id": "node/6758102785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6762913758",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "863",
+        "addr:postcode": "V6C 3N9",
+        "addr:street": "West Hastings Street",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "cuisine": "chocolate",
+        "internet_access": "wlan",
+        "name": "Mink",
+        "opening_hours": "Mo-Fr 07:30-18:00; Sa-Su 09:30-17:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-633-2451",
+        "website": "https://www.minkchocolates.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1153226,
+          49.2866225
+        ]
+      },
+      "id": "node/6762913758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6768408757",
+        "amenity": "cafe",
+        "name": "Pacific Coffee Roasters",
+        "opening_hours": "Mo-Th 08:00-18:30; Fr, Sa 08:00-19:00; Su 08:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.116158,
+          49.2792111
+        ]
+      },
+      "id": "node/6768408757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6814499985",
+        "amenity": "cafe",
+        "cuisine": "cake;breakfast;coffee_shop",
+        "name": "Le Petit Belge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1164249,
+          49.2789851
+        ]
+      },
+      "id": "node/6814499985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6818719746",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "678",
+        "addr:postcode": "V6B 1N3",
+        "addr:street": "Dunsmuir Street",
+        "addr:unit": "80",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "capacity": "30",
+        "cuisine": "bubble_tea",
+        "email": "info@xingfutang.ca",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "-1",
+        "name": "Xing Fu Tang",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 11:00-21:00",
+        "outdoor_seating": "no",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "start_date": "September 23 2019",
+        "takeaway": "yes",
+        "website": "https://www.xingfutang.ca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1164016,
+          49.2832473
+        ]
+      },
+      "id": "node/6818719746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6862066531",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1709",
+        "addr:street": "Robson Street",
+        "amenity": "cafe",
+        "name": "Comebuy Bubble Tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1339997,
+          49.2907375
+        ]
+      },
+      "id": "node/6862066531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030505027",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "678",
+        "addr:postcode": "V6B 1N3",
+        "addr:street": "Dunsmuir Street",
+        "amenity": "cafe",
+        "brand": "Tim Hortons",
+        "brand:wikidata": "Q175106",
+        "brand:wikipedia": "en:Tim Hortons",
+        "cuisine": "coffee_shop",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "level": "-1",
+        "name": "Tim Hortons",
+        "opening_hours": "Mo-Th 06:00-20:30; Fr 06:30-20:30; Sa-Su 08:00-20:00",
+        "outdoor_seating": "no",
+        "phone": "+16046940865",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1164538,
+          49.2830656
+        ]
+      },
+      "id": "node/7030505027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153051222",
+        "amenity": "cafe",
+        "name": "Jugo Juice",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1118595,
+          49.2858583
+        ]
+      },
+      "id": "node/7153051222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7154500485",
+        "amenity": "cafe",
+        "name": "Coal Harbour Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1126862,
+          49.2883311
+        ]
+      },
+      "id": "node/7154500485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7154830730",
+        "amenity": "cafe",
+        "name": "GI Gelato & Coffee House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1338039,
+          49.2721373
+        ]
+      },
+      "id": "node/7154830730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7226696485",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1223",
+        "addr:province": "BC",
+        "addr:street": "Pacific Boulevard",
+        "amenity": "cafe",
+        "name": "Cha Yuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1223976,
+          49.2740045
+        ]
+      },
+      "id": "node/7226696485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7243292890",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "683",
+        "addr:province": "BC",
+        "addr:street": "Nicola Street",
+        "amenity": "cafe",
+        "name": "Take Five Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.12894,
+          49.2903172
+        ]
+      },
+      "id": "node/7243292890"
+    }
+  ]
+}

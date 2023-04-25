@@ -1,0 +1,420 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-31T23:50:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1209180688",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1213",
+        "addr:street": "Pacific Boulevard",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "drive_through": "no",
+        "name": "Subway",
+        "opening_hours": "Mo-Th 07:00-01:00; Fr 07:00-02:00; Sa 08:00-02:00; Su 08:00-01:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1222575,
+          49.2740362
+        ]
+      },
+      "id": "node/1209180688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1381209602",
+        "addr:housenumber": "838",
+        "addr:street": "Davie Street",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "24/7",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1277317,
+          49.2779076
+        ]
+      },
+      "id": "node/1381209602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1386561458",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1095",
+        "addr:street": "Hornby Street",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "drive_through": "no",
+        "name": "Subway",
+        "opening_hours": "Mo-Fr 07:00-00:00; Sa 08:00-00:00; Su 08:00-23:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1265354,
+          49.2796822
+        ]
+      },
+      "id": "node/1386561458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1395460044",
+        "addr:housenumber": "541",
+        "addr:street": "Granville Street",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "24/7",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1159168,
+          49.284191
+        ]
+      },
+      "id": "node/1395460044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692226627",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "source": "survey",
+        "source:location": "extrapolation",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1146229,
+          49.2890568
+        ]
+      },
+      "id": "node/1692226627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2062676592",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1046",
+        "addr:street": "Davie Street",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "Mo-Su 00:00-24:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1304883,
+          49.2797668
+        ]
+      },
+      "id": "node/2062676592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3154804966",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "722",
+        "addr:street": "Smithe Street",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "24/7",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1219022,
+          49.2804593
+        ]
+      },
+      "id": "node/3154804966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3235442664",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "683",
+        "addr:street": "Abbott Street",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "Mo-Fr 07:00-23:00; Sa-Su 09:00-23:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1078464,
+          49.2792636
+        ]
+      },
+      "id": "node/3235442664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3725347744",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1255",
+        "addr:street": "Granville Street",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "24/7",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1272005,
+          49.2766649
+        ]
+      },
+      "id": "node/3725347744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3725404709",
+        "addr:housenumber": "139",
+        "addr:street": "West Hastings Street",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "opening_hours": "Mo-Fr 07:00-23:00; Sa 08:00-23:00; Su 09:00-23:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1084859,
+          49.2823756
+        ]
+      },
+      "id": "node/3725404709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3949416828",
+        "addr:street": "Richards Street",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1123573,
+          49.2839142
+        ]
+      },
+      "id": "node/3949416828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343349418",
+        "addr:housenumber": "1162",
+        "addr:street": "Alberni Street",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1252316,
+          49.2860886
+        ]
+      },
+      "id": "node/4343349418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4419488389",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:en": "Subway",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1342671,
+          49.29089
+        ]
+      },
+      "id": "node/4419488389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4842937923",
+        "addr:housenumber": "1000",
+        "addr:street": "Mainland Street",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:en": "Subway",
+        "opening_hours": "24/7",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1189668,
+          49.2764887
+        ]
+      },
+      "id": "node/4842937923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5304513660",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "260",
+        "addr:street": "Robson Street",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1156293,
+          49.2785018
+        ]
+      },
+      "id": "node/5304513660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153051221",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "drive_through": "no",
+        "name": "Subway",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1119662,
+          49.2859088
+        ]
+      },
+      "id": "node/7153051221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7243292887",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1368",
+        "addr:province": "BC",
+        "addr:street": "West Georgia Street",
+        "addr:unit": "4",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1281326,
+          49.2887314
+        ]
+      },
+      "id": "node/7243292887"
+    }
+  ]
+}

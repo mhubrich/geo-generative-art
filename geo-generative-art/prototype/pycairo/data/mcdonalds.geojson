@@ -1,0 +1,198 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-31T23:49:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1003363440",
+        "addr:housenumber": "1610",
+        "addr:street": "Davie Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1390222,
+          49.2852884
+        ]
+      },
+      "id": "node/1003363440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692226603",
+        "addr:city": "Vancouver",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "name": "McDonald's",
+        "source": "survey",
+        "source:location": "extrapolation",
+        "source:name": "receipt",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1143665,
+          49.2873965
+        ]
+      },
+      "id": "node/1692226603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1944609896",
+        "addr:city": "Vancouver",
+        "addr:province": "BC",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "takeaway": "yes",
+        "website": "http://www.mcdonalds.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1210612,
+          49.2847649
+        ]
+      },
+      "id": "node/1944609896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2720128581",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "275",
+        "addr:street": "Robson Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1156891,
+          49.2788511
+        ]
+      },
+      "id": "node/2720128581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3735407006",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "891",
+        "addr:postcode": "V6Z 1K7",
+        "addr:street": "Granville Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "phone": "+1-604-718-1062",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1213662,
+          49.280548
+        ]
+      },
+      "id": "node/3735407006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331530500",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "1701",
+        "addr:street": "Robson Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1338516,
+          49.2906218
+        ]
+      },
+      "id": "node/4331530500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4731543597",
+        "addr:city": "Vancouver",
+        "addr:housenumber": "88",
+        "addr:street": "West Pender Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "level": "0",
+        "name": "McDonald's",
+        "name:en": "McDonald's",
+        "opening_hours": "Su-Th 06:00-23:00; Fr-Sa 00:00-24:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1073143,
+          49.2808969
+        ]
+      },
+      "id": "node/4731543597"
+    }
+  ]
+}
